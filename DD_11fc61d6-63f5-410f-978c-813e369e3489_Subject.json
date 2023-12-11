@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "$id": "http://www.ibm.com/dba/projects/HCDOC/DD_11fc61d6-63f5-410f-978c-813e369e3489_Subject.json",
+    "uuid": "11fc61d6-63f5-410f-978c-813e369e3489",
+    "namespace": "HCDOC",
+    "version": "1",
+    "description": null,
+    "definitions": {
+        "Subject": {
+            "$id": "#Subject",
+            "title": "Subject",
+            "type": [
+                "string",
+                "null"
+            ],
+            "maxLength": 256,
+            "default": null
+        }
+    }
+}
